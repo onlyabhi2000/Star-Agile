@@ -1,4 +1,1 @@
-I am Abhishek Sharma, and i am learning devops.
-Now i am adding another line in the file
-Again i am adding the 3rd line 
-now i am adding 4th line
+I am Abhishek Sharma, and i am learning devops 
